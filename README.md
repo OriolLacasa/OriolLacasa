@@ -1,16 +1,24 @@
-## Hi there 👋
-Prova
-<!--
-**OriolLacasa/OriolLacasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Imatge de perfil](img/images.jpg)
 
-Here are some ideas to get you started:
+# Oriol Lacasa ![](https://img.shields.io/badge/github-repo-blue?logo=github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Títol i presentació
+
+Hola, soc l'Oriol Lacasa un estudiant de daw que m'interessa la programació. 
+
+## Tecnologies
+
+- Python
+- HTML
+- CSS
+- Javascript
+- C++
+
+## Projectes destacats
+[Projecta de pacman](https://github.com/OriolLacasa/pacman-git)
+[Prgecta sobre una botiga de segona ma](https://github.com/jmirinformatica-classroom50/daw-1c-projecte-1-group-2)
+
+## Contacte
+**Correu:** olacasad@insjoaquimmir.cat
+
+
