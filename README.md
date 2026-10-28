@@ -1,6 +1,7 @@
 ![Imatge de perfil](img/images.jpg)
 
 # Oriol Lacasa ![](https://img.shields.io/badge/github-repo-blue?logo=github)
+[Enllaç del meu perfil](https://github.com/OriolLacasa)
 
 ## Títol i presentació
 
